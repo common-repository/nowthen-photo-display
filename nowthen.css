@@ -1,0 +1,33 @@
+.nowthen {
+width:166px;
+padding-left:10px;
+}
+
+.nowthen img {
+background:#fff;
+border-width:1px;
+border-style:solid;
+border-color:#ccc;
+padding:5px;
+}
+
+.nowthen_photo {
+width:166px;
+}
+
+.nowthen_gallery_photo {
+display:block;
+float:left;
+margin:10px;
+min-height:175px;
+text-align:center;
+width:190px;
+}
+
+.nowthen_gallery_photo img {
+background:#fff;
+border-width:1px;
+border-style:solid;
+border-color:#ccc;
+padding:5px;
+}
